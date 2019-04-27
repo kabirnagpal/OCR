@@ -11,3 +11,5 @@ This project aims at using using Open CV and Deep Learning to claasify hand-writ
 ### Alternatively .ipynb can be also used
 
 Data reference : https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
+
+Note: In the code section do change the image path !
